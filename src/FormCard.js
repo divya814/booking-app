@@ -18,7 +18,7 @@ import {FaSearch} from "react-icons/fa"
 const FormCard = () =>{
   return(
         
-    <Container className="text-center mt-5">
+    <Container className="text-center mt-3">
         <Row>
             <Col lg={6} className="offset-lg-3">
                 <Card>
