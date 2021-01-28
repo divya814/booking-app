@@ -1,8 +1,6 @@
 import React, { Component } from 'react'
 import BackgroundSlider from 'react-background-slider'
 import FormCard from './FormCard'
-// import styled, {keyframes} from "styled-components"
-// import { fadeInDown } from 'react-animations'
 import Fade from 'react-reveal/Fade'
 import image1 from './assets/image1.jpg'
 import image2 from './assets/image2.jpg'
@@ -14,8 +12,6 @@ import image7 from './assets/image7.jpg'
 import image8 from './assets/image8.jpg'
 import image9 from './assets/image9.jpg'
 import image10 from './assets/image10.jpg'
-
-// const fade=styled.div`animation:2s ${keyframes`${fadeInDown}`} infinite`;
 
 class App extends Component {
   render() {
