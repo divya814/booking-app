@@ -26,8 +26,8 @@ const FormCard = () =>{
                         <CardHeader style={{background: "linear-gradient(to right, #FD297A, #5737D6)"}} className="text-light m-3">
                             <h5>Vacation Rentals in INDIA</h5>
                         </CardHeader>
-                        <h5>Find and book best accommodation at Airbnb</h5>
-                        <CardBody className="m-1">            
+                        <h5 className="p-1">Find and book best accommodation at Airbnb</h5>
+                        <CardBody>            
                             <FormGroup row>
                                 <Label for="checkIn" sm={4}>
                                     Check In
